@@ -1,6 +1,6 @@
 
 
- ** Get Image **
+ ## Get Image 
 
 Get Image is a Java program that retrieves images from Flickr web API. You can use the application simply by downloading the given files and running the the simple executable file that run compiles and runs all the given files in the ShowImage folder.
 
@@ -13,5 +13,5 @@ if you get any errors make sure you are in the correct folder and the ShowImage 
 
 ***
 
-The UI is very basic, the code is well documented for further elaboration if any of the buttons cause confusion.
+The UI is very basic, the code is well documented for further elaboration if any of the buttons cause confusion. :smiley:
 
