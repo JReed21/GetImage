@@ -1,0 +1,2 @@
+javac -cp .:gson-2.6.2.jar ShowImage/*.java
+java -cp .:gson-2.6.2.jar ShowImage/ShowImage
